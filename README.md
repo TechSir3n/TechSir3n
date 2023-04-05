@@ -3,7 +3,7 @@
 Hi, I'm a self-taught backend developer. I usually spend my free time improving my skills.<br/>
 Primary languages are Go and C++. My hobbies are astrology and psychology
 
-- 🌱 I’m currently learning **JavaScripts and about cybersecurity**
+- 🌱 I’m currently learning **JavaScript and about Cybersecurity**
 
 - 📫 How to reach me **ruslan56781@mail.ru**
 
