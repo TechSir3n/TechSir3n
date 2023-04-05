@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">I'm backend developer</h3>
+  
+Hi, I'm a self-taught backend developer. I usually spend my free time improving my skills.<br/>
+Primary languages are Go and C++. My hobbies are astrology and psychology
 
 - 🌱 I’m currently learning **JavaScripts and about cybersecurity**
 
