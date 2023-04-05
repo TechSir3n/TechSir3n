@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">I'am backend developer</h3>
+<h3 align="center">I'm backend developer</h3>
 
 - 🌱 I’m currently learning **JavaScripts and about cybersecurity**
 
