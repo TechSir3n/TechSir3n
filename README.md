@@ -19,4 +19,5 @@ Primary languages are Go and C++. My hobbies are astronomy and psychology
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cmake.svg" alt="cmake" width="40" height="40"/> </a> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quitm6n&show_icons=true&locale=en&layout=compact" alt="quitm6n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quitm6n&" alt="quitm6n" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quitm6n&show_icons=true&locale=en" alt="quitm6n" /></p>
