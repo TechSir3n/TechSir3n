@@ -8,8 +8,8 @@ Primary languages are Go and C++. My hobbies are astronomy and psychology
 - 📫 How to reach me **ruslan56781@mail.ru**
 
 ## Social networking
-[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=QuitM6n&color=blue&labelColor=black)](https://t.me/QuitM6n)
-[![GitLab](https://img.shields.io/static/v1?style=for-the-badge&logo=gitlab&label=GitLab&message=QuitM6n&color=orange&labelColor=black)](https://gitlab.com/QuitM6n)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=TechSir3n&color=blue&labelColor=black)](https://t.me/TechSir3n)
+[![GitLab](https://img.shields.io/static/v1?style=for-the-badge&logo=gitlab&label=GitLab&message=TechSir3n&color=orange&labelColor=black)](https://gitlab.com/TechSir3n)
 [![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=darkorange&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRuslan90123&logo=leetcode&logoColor=yellow)](https://leetcode.com/Ruslan90123/)
 
 <h3 align="left">Languages and Tools:</h3>
