@@ -3,9 +3,9 @@
 Hi, I'm a self-taught backend developer. I usually spend my free time improving my skills.<br/>
 Primary languages are Go and C++. My hobbies are astronomy and psychology
 
-- 🔭 I’m currently working on **development of a project on monitoring logs in the golang language**
+- 🔭 I’m currently working on **Laucnher for  Minecrfat**
 
-- 🌱 I’m currently learning **work with the mongoDB database and improve my skills in go, algorithms and data structures**
+- 🌱 I’m currently learning **boost library**
 
 - 📫 How to reach me **ruslan56781@mail.ru**
 
