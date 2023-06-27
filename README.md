@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
   
 Hi, I'm a self-taught backend developer. I usually spend my free time improving my skills.<br/>
-Primary languages are Go and C++. My hobbies are astronomy and psychology
+Primary languages are Go and C++. My hobbies are economy and psychology
 
 - 🔭 I’m currently working on **Laucnher for  Minecrfat**
 
