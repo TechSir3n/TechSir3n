@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ruslan</h1>
-  
-Hi, I'm a self-taught backend developer. I usually spend my free time improving my skills.<br/>
-Primary languages are Go and C++. My hobbies are economy and psychology
-
-- 🔭 I’m currently working on **Laucnher for  Minecrfat**
-
-- 🌱 I’m currently learning **boost library**
-
-- 📫 How to reach me **ruslan56781@mail.ru**
-
 ## Social networking
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=TechSir3n&color=blue&labelColor=black)](https://t.me/TechSir3n)
 [![GitLab](https://img.shields.io/static/v1?style=for-the-badge&logo=gitlab&label=GitLab&message=TechSir3n&color=orange&labelColor=black)](https://gitlab.com/TechSir3n)
